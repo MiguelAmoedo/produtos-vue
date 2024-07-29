@@ -52,7 +52,7 @@ O projeto possui as seguintes páginas, definidas nas rotas do Vue Router:
 - **Home:** `/produtos`
   - Esta página exibe a lista de produtos.
 
-- **Super:** `/criar`
+- **Criar produto:** `/criar`
   - Esta página permite a criação de novos produtos.
 
 - **Register:** `/cadastro`

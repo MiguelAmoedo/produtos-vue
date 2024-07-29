@@ -24,7 +24,7 @@ Este repositório contém o frontend do sistema de gestão de produtos desenvolv
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio-frontend.git](https://github.com/MiguelAmoedo/produtos-vue.git)
+   git clone https://github.com/MiguelAmoedo/produtos-vue
    cd nome-do-repositorio-frontend
    ```
 

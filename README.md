@@ -96,7 +96,7 @@ O frontend deste projeto consome a API desenvolvida com Laravel. Para mais infor
 
 ## Considerações Finais
 
-EsEste projeto foi desenvolvido como um desafia, para proporcionar um sistema de autenticação seguro utilizando JWT. Sinta-se à vontade para contribuir e melhorar este projeto.
+EsEste projeto foi desenvolvido como um desafio, para proporcionar um sistema de autenticação seguro utilizando JWT. Sinta-se à vontade para contribuir e melhorar este projeto.
 
 
 ---

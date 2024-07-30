@@ -62,7 +62,7 @@ O projeto possui as seguintes páginas, definidas nas rotas do Vue Router:
 
 ## Consumo da API
 
-O frontend deste projeto consome a API desenvolvida com Laravel. Para mais informações sobre a API, consulte o repositório da API: [API Produtos Laravel](https://github.com/MiguelAmoedo/api-produtos-laravel).
+O frontend deste projeto consome a API desenvolvida com Laravel. Para mais informações sobre a API, consulte o repositório da API: [API Produtos Laravel](https://github.com/MiguelAmoedo/api-laravel-produtos).
 
 ### Exemplos de Consumo da API
 
